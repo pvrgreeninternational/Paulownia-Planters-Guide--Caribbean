@@ -6,3 +6,5 @@ Details:
  - 30,000 trees to be planted in Year 1
  - $1.5million USD budget
  - Initial Projected ROI is 260% over 8 Years
+ - Tree Coin ICO (Initial CryptocurrencyCoin Offering)
+ - Forestwallet.com & App
