@@ -1,2 +1,2 @@
 
-# Paulownia R&D - See the R&D folder
+# Paulownia Growers Guide - Caribbean
