@@ -1,2 +1,2 @@
-# Pouwlina-Planters-Guide--Caribbean
+# Paulownia-Planters-Guide--Caribbean
 An Open Source Planters Guide for Pouwlina Trees in the Caribbean
